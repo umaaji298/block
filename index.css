@@ -8,9 +8,9 @@ body {
   margin: 0;
   padding: 0;
   positiion: relative;
-  min-width: 600px;
+  min-width: 480;
   /*中央配置するボックスの横幅*/
-  min-height: 400px;
+  min-height: 640px;
   /*中央配置するボックスの縦幅*/
   background-color: #00bfff;
 }
@@ -24,9 +24,9 @@ body {
   /*上端を中央に*/
   left: 50%;
   /*左端を中央に*/
-  width: 600px;
+  width: 480px;
   /*横幅*/
-  height: 400px;
+  height: 640px;
   /*縦幅*/
   background-color: #00ff00;
 }
